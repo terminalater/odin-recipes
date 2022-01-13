@@ -7,5 +7,7 @@ elements and tags, attributes, dimensioning of images, handling files, and links
 
 Image credit:
 Fettuccine Alfredo picture and recipe - https://www.modernhoney.com/fettuccine-alfredo/, Author: Melissa Stadler
+
 Pizza picture - Parker Feierbach
+
 Pizza recipe - https://www.delish.com/cooking/recipe-ideas/a24893663/homemade-pizza-recipe/, Author: Makinze Gore
