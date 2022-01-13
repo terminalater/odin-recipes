@@ -6,7 +6,9 @@ elements and tags, attributes, dimensioning of images, handling files, and links
 
 
 Image credit:
-Fettuccine Alfredo picture and recipe - https://www.modernhoney.com/fettuccine-alfredo/, Author: Melissa Stadler
+Fettucine Alfredo picture - Author currently unknown
+
+Fettuccine Alfredo recipe - https://www.modernhoney.com/fettuccine-alfredo/, Author: Melissa Stadler
 
 Pizza picture - Parker Feierbach
 
